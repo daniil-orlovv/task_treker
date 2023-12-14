@@ -1,6 +1,6 @@
 # Простой трекер задач
 # Описание проекта
-Решает проблему сохранения задач.
+Решает проблему сохранения и отслеживание процесса выполнения своих задач.
 
 ## Требования и зависисмости
 - **Django==3.2.16**
@@ -8,6 +8,9 @@
 - **django-cors-headers==3.13.0**
 - **psycopg2-binary==2.9.3**
 - **python-dotenv==1.0.0**
+
+## Зачем был реализован проект?
+Закрепление навыков и умений: Docker, Docker Compose, Nginx, Gunicorn 
 
 ## Технологии
 `Django`, `Django REST Framework`, `Gunicorn`, `Nginx`, `Docker`, `Docker Compose`, `Docker Hub`, `GitHub Actions`
